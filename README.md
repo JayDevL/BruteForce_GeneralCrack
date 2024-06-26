@@ -1,4 +1,5 @@
-by. JMDL
+by. JMDL.
+
 ------------------------------------------------------------------- Spanish -------------------------------------------------------------------------------------
 
 Para verificar la política de ejecución de scripts actual en tu sistema, puedes usar el siguiente comando en PowerShell:
